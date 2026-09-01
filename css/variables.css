@@ -95,6 +95,6 @@
   /* --- Layout --- */
   --container-max-width: 1280px;
   --container-narrow: 1040px;
-  --header-height: 86px;
-  --header-height-scrolled: 72px;
+  --header-height: 96px;
+  --header-height-scrolled: 76px;
 }
